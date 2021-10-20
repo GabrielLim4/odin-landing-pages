@@ -1,2 +1,4 @@
 # odin-landing-pages
-Odin Project
+The Odin project
+
+Course Fundations (HTML, CSS, Flexbox)
